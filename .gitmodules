@@ -1,0 +1,12 @@
+[submodule "crnn_plate_recognition"]
+	path = crnn_plate_recognition
+	url = https://github.com/we0091234/crnn_plate_recognition
+[submodule "Car_recognition"]
+	path = Car_recognition
+	url = https://github.com/we0091234/Car_recognition
+[submodule "Chinese_license_plate_detection_recognition"]
+	path = Chinese_license_plate_detection_recognition
+	url = https://github.com/we0091234/Chinese_license_plate_detection_recognition
+[submodule "Chinese-License-Plate-Recognition"]
+	path = Chinese-License-Plate-Recognition
+	url = https://github.com/Ayers-github/Chinese-License-Plate-Recognition
